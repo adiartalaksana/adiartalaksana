@@ -14,7 +14,7 @@ My goal is to become a data analyst and keep growing in this digitalization era.
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [medium](https://medium.com/@adiartalaksaa/);
 - 📫 How to reach me: adiartalaksana@gmail.com;
-- 📝 [Resume](linkgdrive)
+- 📝 [Resume](https://adiartalaksana.github.io/)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
